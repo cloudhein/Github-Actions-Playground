@@ -1,5 +1,5 @@
-# GitHub-Actions-Zero-to-Hero
-Repository to kick start your journey with GitHub Actions
+# GitHub-Actions-Zero-to-Hero 
+Repository to kick start your journey with GitHub Actions CI/CD Pipelines
 
 ## Comparing with Jenkins 
 
