@@ -32,4 +32,4 @@ jobs:
       - name: Run tests
         run: |
           cd python-app
-          python app.py
+          python app.py &
