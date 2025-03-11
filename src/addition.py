@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit for github actions ci
+# This is a test commit for github actions ci server
 def add(a, b):
     return a + b
 
